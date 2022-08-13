@@ -14,6 +14,8 @@
 6. Simple interest Calculater
 
 
+### I am waiting for your contributions code and help other peoples. 
+
 
 
 
